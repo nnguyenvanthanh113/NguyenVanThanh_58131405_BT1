@@ -14,6 +14,9 @@ import java.util.ArrayList;
 public class QLDS implements IQLDS{
 
     ArrayList<CaNhan> canhan = new ArrayList();
+    public QLDS() {
+    }
+    
     @Override
     public int them(CaNhan p) {
         canhan.add(p);

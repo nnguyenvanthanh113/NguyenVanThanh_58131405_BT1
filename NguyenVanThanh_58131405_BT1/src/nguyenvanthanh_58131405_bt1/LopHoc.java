@@ -15,6 +15,7 @@ public class LopHoc {
     
     ArrayList<HocSinh> hocsinh = new ArrayList();
     ArrayList<GiaoVien> giaovien = new ArrayList();
+    ArrayList<QLDS> qlds = new ArrayList();
     
     
     public int themHocSinh(HocSinh hs){

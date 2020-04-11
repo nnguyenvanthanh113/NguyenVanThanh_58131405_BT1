@@ -39,6 +39,7 @@ public class NguyenVanThanh_58131405_BT1 {
         //in danh sach giao vien trong lop
         System.out.println(lophoc.inDSGVGD());
         
+        
     }
     
     //
